@@ -1,0 +1,3 @@
+{"timestamp": "2026-02-04T15:15:27.471895", "activity": "SCAN_START", "details": {"target": "usuario_exemplo@email.com"}}
+{"timestamp": "2026-02-04T15:15:40.120526", "activity": "AI_ANALYSIS_COMPLETE", "details": {"target": "usuario_exemplo@email.com", "risk_level": "Alto"}}
+{"timestamp": "2026-02-04T15:15:40.120782", "activity": "SCAN_FINISHED", "details": {"target": "usuario_exemplo@email.com", "report_file": "/home/ubuntu/data_leak_monitor/report_usuario_exemplo_email.com.md"}}
