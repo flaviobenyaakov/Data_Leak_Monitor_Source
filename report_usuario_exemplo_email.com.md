@@ -27,4 +27,4 @@ E-mail, Senha
 - Verificar se dados pessoais adicionais foram comprometidos e, se necessário, monitorar possíveis usos indevidos, como fraude de identidade.
 
 ---
-*Este relatório foi gerado automaticamente pelo Sistema de Monitoramento de Vazamentos Manus AI em conformidade com a LGPD.*
+*Este relatório foi gerado automaticamente pelo Sistema de Monitoramento de Vazamentos em conformidade com a LGPD.*
